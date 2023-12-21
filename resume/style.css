@@ -1,0 +1,23 @@
+header{
+    text-align: left;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main{
+    text-align: left;
+    width: auto;
+    margin-bottom: 100px;
+
+}
+footer{
+    text-align: center;
+    width: auto;
+    margin-top: 100%;
+    background-color: black;
+    color: white;
+    position: bottom;
+}
